@@ -11,7 +11,7 @@ __I would recommend to run this program in Linux terminal. This is specially des
 ## Setup
 Before you begin you need to install requirements. You can run this code in your terminal to install requirements.
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ## Run
 Go to the location where you downloaded the file, type this and run.
