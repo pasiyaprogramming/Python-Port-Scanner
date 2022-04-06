@@ -3,7 +3,7 @@
 This is a simple nmap port scanner using python language. :computer:
 \
 \
-You can use it to scan any ports in a ip address.
+You can use it to scan TCP ports in a ip address.
 \
 \
 __I would recommend to run this program in Linux terminal. This is specially design for linux terminal.__
